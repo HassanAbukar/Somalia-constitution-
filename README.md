@@ -73,3 +73,9 @@ python src/chat.py
 - Web interface
 - Article number citations
 - Faster indexing optimization
+
+## Data Setup
+
+1. Place the constitution.mp4 and index.json file inside the /data folder
+2. Then Run:
+   python ingest.py
