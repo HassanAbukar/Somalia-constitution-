@@ -1,0 +1,5 @@
+memvid
+pypdf
+sentence-transformers
+gemini
+tqdm
